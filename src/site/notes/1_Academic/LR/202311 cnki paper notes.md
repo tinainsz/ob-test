@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1_Academic/LR/202311 cnki paper notes/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/1_Academic/LR/202311 cnki paper notes/"}
 ---
+
 
 # 雪亮-CNKI
 ## 介绍
