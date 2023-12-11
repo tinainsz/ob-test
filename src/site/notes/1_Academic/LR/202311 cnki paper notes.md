@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1_Academic/LR/202311 cnki paper notes/"}
+{"dg-publish":true,"permalink":"/1_Academic/LR/202311 cnki paper notes/","dgShowToc":true}
 ---
 
 # 雪亮-CNKI
